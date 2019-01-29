@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: BioHack Academy Tex
 permalink: /about/
 ---
 
