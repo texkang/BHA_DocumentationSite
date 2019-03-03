@@ -5,7 +5,7 @@ title: Tex's BioHack Academy 6
 
 # My documentation to become an evil scientist
 
-## BHA6 First Week
+## BHA6
 
 Alright so here we go, BioHack Academy 6.
 I am not a biologist nor have I done particularily well in school in regards to the subject matter, as my TA would be eager to prove this point when I show up to this office hours and he just sighs. 
