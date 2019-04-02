@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Week of BioHack Academy 6
+title: 2. First Week of BioHack Academy 6
 ---
 
 # Sterile Environment
