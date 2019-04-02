@@ -16,7 +16,7 @@ So we move on to our backup plan of world domination. Kinda cliche, I know, but 
 
 <video src="images/final/slime.mp4" width="320" height="200" controls preload></video>
 
-![slime]({{site.baseurl}}/images/final/slime.mp4)
+![slime]({{site.baseurl}}/images/final/slime.gif)
 
 
 ![halves]({{site.baseurl}}/images/final/halves.jpg)
