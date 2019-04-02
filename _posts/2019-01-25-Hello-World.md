@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tex's BioHack Academy 6
+title: 1. Tex's BioHack Academy 6
 ---
 
 # 1. My documentation to become an evil scientist
