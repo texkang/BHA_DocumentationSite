@@ -5,7 +5,7 @@ title: 2. First Week of BioHack Academy 6
 
 # Sterile Environment
 
-## BHA6 First Week
+## BHA6 First Week Clean Bench
 
 Safety is always a big if not main concern for all BioHack experiments. Due to the nature of our experiments to potentially create hazardous materials and our responsibility to take care of our work, we must first provide a sterile and experiment ready environment before our actual experimentation. To learn how to do so, we followed Waag Society's designs in BHA on and took a class about the importance of a clean and prepped work station. 
 
