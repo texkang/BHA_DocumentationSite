@@ -35,11 +35,11 @@ I now have the dimensions and the materials, but I did not take into account acc
 
 ![halves]({{site.baseurl}}/images/final/halves.jpg)
 
-![bonding]({{site.baseurl}}/images/final/glue halves.jpg)
+![bonding]({{site.baseurl}}/images/final/gluehalves.jpg)
 
 After that I cut two bands of 5mm polycarbonate sheets to a length of 1900mm x 180mm for the walls. I had to then bond the two strips together using two smaller strips to kind of 'band-aid' them together and form a wall which I then placed and taped on initially to the plate. After affixing the walls to the right position, I used methylene chloride (don't sniff anything that literally has the words meth in it) which can luckily bond PC to acrylic together which solved the issue of using two different materials. 
 
-![taping]({{site.baseurl}}/images/final/wall glue and tape.jpg)
+![taping]({{site.baseurl}}/images/final/wallglue.jpg)
 
 However in order to make sure that this petri dish would not break those welds just from shear forces or because of its own weight and to guarantee it being water tight, I used table top epoxy resin as a finisher. The resin I used was very reliable (read: expensive) as it would be cast clear, be waterproof, and naturally antimicrobial. I used about 0.6 gallons of activated resin as that's about 2299.8009595 militers or cubic centimeters of volume to fill the plate up to 2mm in height in the plate. 
 
@@ -47,13 +47,13 @@ However in order to make sure that this petri dish would not break those welds j
 
 After that I let it set for at least 48 hours and took of the tape.
 
-![resin]({{site.baseurl}}/images/final/done dish.jpg)
+![resin]({{site.baseurl}}/images/final/donedish.jpg)
 
 Technically I am not yet finished to submit my world record as I to need a lid. The problem is that after I calculated several variables such as the mass of the lid material weighing down, if the same method of bonding would hold the lid suspended, if any unacceptable levels of sagging in the middle of the lid might occur, if the walls can support the weight, etc, etc I found that I need to get a single circlular sheet of PC around 3.4mm thick and diameter of 1220mm. Which is not available to consumer level purchasing. So I had to custom order it from a company outside Seoul and unfortunately at the day of the presentation it has not arrived. I still am comitted to applying to the Guinness World Records so I will have to wait until it arrives. I guess this is the reason no one really made a meter diameter petri dish before. 
 
 Moving on I needed to make a world. As the late and great Stan Lee said, "The best way to rule the universe is to create it" I created a flat earth and laser cut an oblong globe and glued the continents on top of it to create a height difference for the medium ti be poured into (I know the world is round and I know Antarctica is missing as well as some important landmasses but for the sake of representation of a game I had to make it simpler). 
 
-![world]({{site.baseurl}}/images/final/world cut.jpg)
+![world]({{site.baseurl}}/images/final/worldcut.jpg)
 
 ![more bonding]({{site.baseurl}}/images/final/gluing.jpg)
 
@@ -78,7 +78,7 @@ As for the microbes, I wanted to have at least 5 or 6 different sources with a p
 ![sample]({{site.baseurl}}/images/final/wipe.jpg)
 
 
-![glow]({{site.baseurl}}/images/final/night-test.gif)
+![glow]({{site.baseurl}}/images/final/nighttest.gif)
 
 I really like its glow at night.
 
@@ -86,4 +86,4 @@ I really like its glow at night.
 
 And so that's my final project. I might not get my results by the time of the presentation but I am recording it at a time lapse so I will further update and present my findings on world domination.
 
-![done]({{site.baseurl}}/images/final/final dish.jpg)
+![done]({{site.baseurl}}/images/final/finaldish.jpg)
