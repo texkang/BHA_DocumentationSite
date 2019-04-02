@@ -25,6 +25,8 @@ Secondly, we require a blower fan that can push beyond the static pressure the f
 
 We also considered future potential upgrades, such as a bigger area to work with, a vertical type clean bench with caster wheels to make it portable, some LEDs for brighter visibility, and adding UV disinfection as an additional step and to use as a sterile storage chamber when the clean bench is not in use. 
 
+![sterile hood made]({{site.baseurl}}/images/clean bench/sterile hood.jpg)
+
 Also in class, we discussed the safety and regulations of biohacking, from proper hand washing techniques, how to handle tools and lab equipment, and ethical considerations to experimentation. Lastly the assignment for this week was to utilize what we learned in CAD so I CNC'd a wooden test tube rack.
 
 ![rack concept]({{site.baseurl}}/images/clean bench/test tube holder.png)
