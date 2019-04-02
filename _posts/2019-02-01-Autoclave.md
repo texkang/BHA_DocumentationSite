@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First BioHack experiment
+title: 3. First BioHack experiment
 ---
 
 # How to use the autoclave
