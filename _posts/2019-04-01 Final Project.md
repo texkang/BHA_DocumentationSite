@@ -14,6 +14,8 @@ Due to humanity's inability to prevent climate change, we suffered from negative
 
 So we move on to our backup plan of world domination. Kinda cliche, I know, but its a traditional plan with a bit of a twist. I got my inspiration from some games like a board game called Risk and an interactive game called Plague. Both rely on using strategy to take over the world or at least the most area while fighting against other players or the game that is trying to prevent you from expanding. So by introducing bacteria as the intelligence behind the players, they will strive to conquer the world. Bacteria growth patterns have fascinated me ever since I've seen them create links that are the most efficient between nodes, which can represent intercity traffic routes or even slime molds that seek out food in mazes. 
 
+<video src="images/final/slime.mp4" width="320" height="200" controls preload></video>
+
 ![slime]({{site.baseurl}}/images/final/slime.mp4)
 
 
