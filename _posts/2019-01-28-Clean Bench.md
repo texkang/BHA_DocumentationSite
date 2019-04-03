@@ -15,6 +15,8 @@ Waag's design for the clean bench, a work area that allows filtered air to be co
 
 ![materials]({{site.baseurl}}/images/clean bench/clean bench materials.png)
 
+![making]({{site.baseurl}}/images/clean bench/sterile hood making.jpg)
+
 Two important components for the sterile hood is the HEPA filter and laminar flow. We require at least a class 13 High Efficiancy Particle Absorber to capture 99.97 0.3 micrometer particles. A class 14 is preferred but for the microbes we are dealing with a Class 13 is acceptable to use. 
 
 
