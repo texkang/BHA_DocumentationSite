@@ -12,6 +12,8 @@ I am not a biologist nor have I done particularily well in school in regards to 
 However that should not and will not dissuade me in pursuing biohacking as a means to both improve my knowledge and increase my potential as well as fulfill my one of my life long goals of becoming an evil scientist.
 The FabAcademy has had surely helped in this endeavor and now armed with the knowledge of future fabrication techniques I wish to expand my capabilities by demonstrating the many experiments to be conducted in the BioHack Academy.
 
+![biolabseoul]({{site.baseurl}}/images/clean bench/biolab1.jpg)
+
 
 **Random Links**
 
