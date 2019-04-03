@@ -9,7 +9,7 @@ title: 2. First Week of BioHack Academy 6
 
 Safety is always a big if not main concern for all BioHack experiments. Due to the nature of our experiments to potentially create hazardous materials and our responsibility to take care of our work, we must first provide a sterile and experiment ready environment before our actual experimentation. To learn how to do so, we followed Waag Society's designs in BHA on and took a class about the importance of a clean and prepped work station. 
 
-![biolabseoul]({{site.baseurl}}/images/clean bench/biolab1.jpg)
+![biolabseoul]({{site.baseurl}}/images/clean bench/group.jpg)
 
 Waag's design for the clean bench, a work area that allows filtered air to be constantly circulated in a contain field so external contaminants can be prevented from affecting the experiment, uses a filter and a sufficient enough air flow to push outside air into the space filtering it. Allowing fresh air to be passed through the filters captures the majority of atmospheric contaminants and helps prevents even indirect contamination from the human subject as the blown air will push clean air away from the experiment site. 
 
