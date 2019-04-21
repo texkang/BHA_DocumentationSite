@@ -22,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github:
-  instagram:
+  instagram: alloytex
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
@@ -51,7 +51,7 @@ baseurl: ""
 
 
 markdown: kramdown
-highlighter: rouge #pygments
+highlighter: rouge 
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
@@ -72,4 +72,4 @@ exclude:
     - Gemfile
     - Gemfile.lock
     - LICENSE
-- README.md
+    - README.md
