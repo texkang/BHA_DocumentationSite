@@ -84,6 +84,20 @@ I really like its glow at night.
 
 ![glow2]({{site.baseurl}}/images/final/sample.gif)
 
+
 And so that's my final project. I might not get my results by the time of the presentation but I am recording it at a time lapse so I will further update and present my findings on world domination.
 
 ![done]({{site.baseurl}}/images/final/finaldish.jpg)
+
+
+Edit: Well, unfortunately the raspberry pi camera setup suffered some kind of power outage and I never noticed it didn't record. So I only have the few photos that I took every once in a while. Not to mention the top cover the the world seems to have bent somehow, either due to the moisture or some kinda of reaction to the medium. However I finally gotten some results. Several colonies of South America have developed as well as Greenland and the Eastern coast of Asia. It was interesting as some microbes were not expected to grow there so I expect some cross contamination must have occured, which seems both forunate and unfortunate as it still allowed growth and I was able to document them. Also, the tritium has shown to have effect as anything around it does not grow within a 4 ~ 5cm area around it. 
+
+![e1]({{site.baseurl}}/images/final/b1.jpg)
+![e2]({{site.baseurl}}/images/final/b2.jpg)
+![e3]({{site.baseurl}}/images/final/b3.jpg)
+![e4]({{site.baseurl}}/images/final/b4.jpg)
+![e5]({{site.baseurl}}/images/final/b5.jpg)
+![e6]({{site.baseurl}}/images/final/b6.jpg)
+![e7]({{site.baseurl}}/images/final/b7.jpg)
+![e8]({{site.baseurl}}/images/final/b8.jpg)
+
