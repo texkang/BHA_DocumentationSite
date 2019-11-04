@@ -101,3 +101,9 @@ Edit: Well, unfortunately the raspberry pi camera setup suffered some kind of po
 ![e7]({{site.baseurl}}/images/final/b7.jpg)
 ![e8]({{site.baseurl}}/images/final/b8.jpg)
 
+Edit2: We've done some further experiments like growing a giant kombucha leather sample, so we can make a big piece of artificial leather that we can fashion into other projects. Here are some pictures of it:
+
+![e9]({{site.baseurl}}/images/final/e9.jpg)
+![e10]({{site.baseurl}}/images/final/e10.jpg)
+![e11]({{site.baseurl}}/images/final/e11.jpg)
+![e12]({{site.baseurl}}/images/final/e12.jpg)
